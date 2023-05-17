@@ -16,3 +16,5 @@ This is just a demo on how to use the api, you can use it as a base for your own
 It demonstrates how to convert the api output to a JSON object and output it into your program.
 
 GoodLuck!
+
+If you would like to see use the Sample JSON you will have to read it from the file and not the api.
